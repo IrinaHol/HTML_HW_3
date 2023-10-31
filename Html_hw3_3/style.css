@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+
+section {
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.textBox {
+    width: 80vw;
+    height: 30vh;
+    font-family: Calibri, sans-serif;
+}
+
+h1 {
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+
+.bgColor1 {
+    background: #c53bd3;
+}
+
+.bgColor2 {
+    background: #7c7171;
+}
+
+.colorText {
+    color: white;
+}

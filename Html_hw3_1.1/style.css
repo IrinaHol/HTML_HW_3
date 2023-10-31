@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+}
+
+header {
+    width: 100vw;
+    height: 25vh;
+    background-color: #D9D9D9;
+}
+
+main {
+    width: 100vw;
+    height: 32.5vh;
+    background-color: #BAB5B5;
+}
+
+div {
+    display: flex;
+}
+
+section {
+    width: 60vw;
+    height: 32.5vh;
+    background-color: #989595;
+}
+
+article {
+    width: 40vw;
+    height: 32.5vh;
+    background-color: #716B6B;
+}
+
+footer {
+    width: 100vw;
+    height: 10vh;
+    background-color: #D9D9D9;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter, sans-serif;
+    font-size: 30px;
+}
+
+.textColor {
+    color: #FFFFFFFF;
+}
